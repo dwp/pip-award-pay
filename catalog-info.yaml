@@ -1,13 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: blank.prototype.kit
-  title: Blank-Prototype-Kit
+  name: pip.award.pay
+  title: PIP-Award-Pay
   description: |
-    A blank prototype kit version 13.18.1 with DWP Frontend installed
+    A blank prototype kit 
 
   annotations:
-    gitlab.com/project-slug: dwp/user-centred-design/blank-prototype-kit
+    gitlab.com/project-slug: dwp/user-centred-design/pip-award-pay
 
   labels:
     dwp.gov.uk/version: 1.0.0
